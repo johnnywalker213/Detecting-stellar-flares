@@ -144,7 +144,7 @@ file_path = 'path/to/your/*_new_FLARE.txt'
 
 ## Citation
 
-If you use this code in your research, please cite the associated paper [citation information to be added].
+If you use this code in your research, please cite the associated paper [Qiyuan Wang, Giovanni Motta, Genaro Sucarrat, Vinay L Kashyap, Detecting stellar flares in the presence of a deterministic trend and stochastic volatility, Monthly Notices of the Royal Astronomical Society, 2026;, stag235, https://doi.org/10.1093/mnras/stag235].
 
 ## Contact
 
